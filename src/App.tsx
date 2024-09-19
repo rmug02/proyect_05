@@ -8,7 +8,7 @@ function App() {
      <div>
         <img src={miLogo} alt="Logo de React" />
         <h1>Hola mundo</h1>
-        <p>Este es mi primer proyecto en read</p>
+        <p>Este es mi primer proyecto en React</p>
      </div>
     </>
   )
